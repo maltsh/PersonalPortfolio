@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    line-height: normal;
+ }
+ 
+ 
+ :root {
+    
+    /* fonts */
+    --font-plus-jakarta-sans: 'Plus Jakarta Sans';
+    
+    /* font sizes */
+    --font-size-sm: 14px;
+    --font-size-mini: 15px;
+    --font-size-xl: 20px;
+    
+    /* Colors */
+    --color-gray: #000502;
+    
+ }
+ 

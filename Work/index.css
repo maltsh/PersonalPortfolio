@@ -1,0 +1,514 @@
+.rectangle {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 63px;
+ }
+ .frame2 {
+    position: absolute;
+    top: calc(50% - 91.09px);
+    left: calc(50% - 100px);
+    width: 200px;
+    height: 63px;
+ }
+ .tshepiso-mal-1 {
+    position: absolute;
+    top: -14.59px;
+    left: 412px;
+    width: 287px;
+    height: 159px;
+    object-fit: cover;
+ }
+ .frame1 {
+    position: absolute;
+    width: 90%;
+    top: 38px;
+    right: 5%;
+    left: 5%;
+    height: 183px;
+ }
+ .rectangle1 {
+    position: absolute;
+    width: 100%;
+    top: 28px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-gray);
+    height: 1px;
+ }
+ .rectangle2 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 29px;
+ }
+ .ethics {
+    position: absolute;
+    width: 100%;
+    top: 4px;
+    left: 0%;
+    letter-spacing: 0.25px;
+    line-height: 20px;
+    display: inline-block;
+ }
+ .frame5 {
+    position: absolute;
+    width: 100.93%;
+    top: -0.59px;
+    right: -1.87%;
+    left: 0.93%;
+    height: 29px;
+ }
+ .rectangle3 {
+    position: absolute;
+    width: 89.72%;
+    top: 59px;
+    right: 10.28%;
+    left: 0%;
+    background-color: var(--color-gray);
+    height: 1px;
+ }
+ .frame6 {
+    position: absolute;
+    width: 89.72%;
+    top: 30.41px;
+    right: 9.35%;
+    left: 0.93%;
+    height: 29px;
+ }
+ .rectangle5 {
+    position: absolute;
+    width: 99.53%;
+    top: 90px;
+    right: 0.47%;
+    left: 0%;
+    background-color: var(--color-gray);
+    height: 1px;
+ }
+ .frame7 {
+    position: absolute;
+    width: 99.07%;
+    top: 61.41px;
+    right: 0%;
+    left: 0.93%;
+    height: 29px;
+ }
+ .frame4 {
+    position: absolute;
+    width: 4.95%;
+    top: 0px;
+    right: 0%;
+    left: 95.05%;
+    height: 93px;
+ }
+ .frame3 {
+    position: absolute;
+    width: 90%;
+    top: 164px;
+    right: 5%;
+    left: 5%;
+    height: 93px;
+ }
+ .rectangle7 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    background-color: #fbff36;
+    height: 70px;
+ }
+ .untitled-design-4-1 {
+    position: absolute;
+    top: 4px;
+    left: 0px;
+    width: 801px;
+    height: 62px;
+    object-fit: cover;
+ }
+ .untitled-design-2-1 {
+    position: absolute;
+    top: -48px;
+    left: 160px;
+    width: 1000px;
+    height: 200px;
+    object-fit: cover;
+ }
+ .untitled-design-3-1 {
+    position: absolute;
+    top: -11px;
+    left: 674px;
+    width: 734px;
+    height: 92px;
+    object-fit: cover;
+ }
+ .frame8 {
+    position: absolute;
+    width: 100%;
+    top: 343px;
+    right: 0%;
+    left: 0%;
+    height: 70px;
+ }
+ .rectangle8 {
+    position: absolute;
+    width: 26.25%;
+    top: 633px;
+    right: 37.5%;
+    left: 36.25%;
+    background-color: var(--color-gray);
+    height: 2px;
+ }
+ .rectangle9 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 46px;
+ }
+ .projects {
+    position: absolute;
+    width: 47.3%;
+    top: -0.41px;
+    left: 52.7%;
+    line-height: 44.4px;
+    display: inline-block;
+ }
+ .featured {
+    position: absolute;
+    width: 52.7%;
+    top: -0.41px;
+    left: 0%;
+    line-height: 44.4px;
+    display: inline-block;
+ }
+ .frame10 {
+    position: absolute;
+    width: 100%;
+    top: 0.41px;
+    right: 0%;
+    left: 0%;
+    height: 46px;
+ }
+ .frame9 {
+    position: absolute;
+    width: 26.25%;
+    top: 570px;
+    right: 37.5%;
+    left: 36.25%;
+    height: 46px;
+    font-size: var(--font-size-18xl);
+ }
+ .image-icon {
+    position: absolute;
+    width: 25%;
+    top: -0.2px;
+    right: 65%;
+    left: 10%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 60px;
+    object-fit: cover;
+ }
+ .image-icon1 {
+    position: absolute;
+    width: 16.67%;
+    top: calc(50% - 20.2px);
+    right: 83.33%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 40px;
+    object-fit: cover;
+ }
+ .adhd {
+    position: absolute;
+    width: 18.33%;
+    top: 8.8px;
+    left: 20.83%;
+    line-height: 22.5px;
+    display: inline-block;
+ }
+ .frame15 {
+    position: absolute;
+    width: 50%;
+    top: 0px;
+    right: 50%;
+    left: 0%;
+    height: 42px;
+ }
+ .neurodiversity {
+    position: absolute;
+    width: 46.67%;
+    top: 8.8px;
+    left: 20.83%;
+    line-height: 22.5px;
+    display: inline-block;
+ }
+ .frame16 {
+    position: absolute;
+    width: 50%;
+    top: 0px;
+    right: 0%;
+    left: 50%;
+    height: 42px;
+ }
+ .frame14 {
+    position: absolute;
+    width: 80%;
+    top: 84px;
+    right: 10%;
+    left: 10%;
+    height: 42px;
+ }
+ .inflow-is-a {
+    margin: 0;
+ }
+ .inflow-is-a-container {
+    position: absolute;
+    width: 70%;
+    top: 151.2px;
+    left: 10%;
+    line-height: 22.5px;
+    display: inline-block;
+ }
+ .frame13 {
+    position: absolute;
+    width: 50%;
+    top: calc(50% - 139.2px);
+    right: 0%;
+    left: 50%;
+    height: 278.39px;
+ }
+ .icon {
+    position: absolute;
+    top: -0.41px;
+    left: 7px;
+    width: 600px;
+    height: 800px;
+    object-fit: cover;
+ }
+ .frame12 {
+    position: absolute;
+    width: 100%;
+    top: -0.41px;
+    right: 0%;
+    left: 0%;
+    height: 800px;
+ }
+ .image-icon3 {
+    position: absolute;
+    width: 22.67%;
+    top: -0.2px;
+    right: 67.33%;
+    left: 10%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 60px;
+    object-fit: cover;
+ }
+ .social-justice {
+    position: absolute;
+    width: 42.5%;
+    top: 8.8px;
+    left: 20.83%;
+    line-height: 22.5px;
+    display: inline-block;
+ }
+ .non-profit {
+    position: absolute;
+    width: 35%;
+    top: 8.8px;
+    left: 20.83%;
+    line-height: 22.5px;
+    display: inline-block;
+ }
+ .rectangle-icon {
+    position: absolute;
+    width: 22.71%;
+    top: 280.39px;
+    right: 67.29%;
+    left: 10%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 1px;
+ }
+ .neon-provides-support-container {
+    position: absolute;
+    width: 74.5%;
+    top: 150.8px;
+    left: 10%;
+    line-height: 22.5px;
+    display: inline-block;
+ }
+ .frame17 {
+    position: absolute;
+    width: 100%;
+    top: 800px;
+    right: 0%;
+    left: 0%;
+    height: 800px;
+ }
+ .image-icon6 {
+    position: absolute;
+    width: 24.33%;
+    top: -0.2px;
+    right: 65.67%;
+    left: 10%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 60px;
+    object-fit: cover;
+ }
+ .gaming {
+    position: absolute;
+    width: 24.58%;
+    top: 8.8px;
+    left: 20.83%;
+    line-height: 22.5px;
+    display: inline-block;
+ }
+ .twitch {
+    position: absolute;
+    width: 21.67%;
+    top: 8.8px;
+    left: 20.83%;
+    line-height: 22.5px;
+    display: inline-block;
+ }
+ .linkorep-operates-a-container {
+    position: absolute;
+    width: 73.67%;
+    top: 150.8px;
+    left: 10%;
+    line-height: 22.5px;
+    display: inline-block;
+ }
+ .frame23 {
+    position: absolute;
+    width: 50%;
+    top: calc(50% - 150.2px);
+    right: 0%;
+    left: 50%;
+    height: 300.39px;
+ }
+ .frame22 {
+    position: absolute;
+    width: 100%;
+    top: 1600px;
+    right: 0%;
+    left: 0%;
+    height: 800px;
+ }
+ .frame11 {
+    position: absolute;
+    width: 100%;
+    top: 757px;
+    right: 0.58%;
+    left: -0.58%;
+    height: 2812.19px;
+    font-size: var(--font-size-mini);
+ }
+ .rectangle10 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 31px;
+ }
+ .rectangle11 {
+    position: absolute;
+    width: 99.86%;
+    top: 30.86px;
+    right: 0.07%;
+    left: 0.07%;
+    background-color: var(--color-gray);
+    height: 1px;
+ }
+ .accessibility-statement {
+    position: absolute;
+    width: 100%;
+    top: 5px;
+    left: 0%;
+    letter-spacing: 0.25px;
+    line-height: 20px;
+    display: inline-block;
+ }
+ .frame28 {
+    position: absolute;
+    top: 0.14px;
+    left: calc(50% - 91px);
+    width: 182px;
+    height: 31px;
+ }
+ .rectangle14 {
+    position: absolute;
+    width: 99.53%;
+    top: 30.86px;
+    right: 0.24%;
+    left: 0.24%;
+    background-color: var(--color-gray);
+    height: 1px;
+ }
+ .frame30 {
+    position: absolute;
+    top: 44.14px;
+    left: calc(50% - 53px);
+    width: 106px;
+    height: 31px;
+ }
+ .rectangle16 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 80px;
+ }
+ .image-icon9 {
+    position: absolute;
+    width: 100%;
+    top: calc(50% - 40px);
+    right: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 80px;
+    object-fit: cover;
+ }
+ .frame32 {
+    position: absolute;
+    top: 88.14px;
+    left: calc(50% - 40px);
+    width: 80px;
+    height: 80px;
+ }
+ .frame27 {
+    position: absolute;
+    width: 80%;
+    top: 3726px;
+    right: 10%;
+    left: 10%;
+    height: 328.55px;
+ }
+ .frame {
+    position: relative;
+    background-color: #f0fafb;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 100%;
+    height: 4300px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-gray);
+    font-family: var(--font-plus-jakarta-sans);
+ }
+ 
+ 
+ 

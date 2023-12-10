@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    line-height: normal;
+ }
+ 
+ 
+ :root {
+    
+    /* fonts */
+    --font-roboto: Roboto;
+    --font-plus-jakarta-sans: 'Plus Jakarta Sans';
+    
+    /* font sizes */
+    --font-size-mini: 15px;
+    --font-size-sm: 14px;
+    --font-size-xl: 20px;
+    --font-size-18xl: 37px;
+    
+    /* Colors */
+    --color-azure: #f0fafb;
+    --color-darkblue: #0e11a8;
+    --color-mediumspringgreen: #00ffbc;
+    --color-darkslategray: #332e2e;
+    
+    /* Border radiuses */
+    --br-8xs-5: 4.5px;
+    
+ }
+ 
