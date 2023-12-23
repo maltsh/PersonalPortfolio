@@ -12,6 +12,7 @@
     left: calc(50% - 100px);
     width: 200px;
     height: 63px;
+    max-width: 100%;
  }
  .tshepiso-mal-1 {
     position: absolute;
@@ -28,6 +29,7 @@
     right: 5%;
     left: 5%;
     height: 183px;
+    max-width: 100%;
  }
  .rectangle1 {
     position: absolute;
@@ -62,6 +64,7 @@
     right: -1.87%;
     left: 0.93%;
     height: 29px;
+    max-width: 100%;
  }
  .rectangle3 {
     position: absolute;
@@ -79,6 +82,7 @@
     right: 9.35%;
     left: 0.93%;
     height: 29px;
+    max-width: 100%;
  }
  .rectangle5 {
     position: absolute;
@@ -96,6 +100,7 @@
     right: 0%;
     left: 0.93%;
     height: 29px;
+    max-width: 100%;
  }
  .frame4 {
     position: absolute;
@@ -104,6 +109,7 @@
     right: 0%;
     left: 95.05%;
     height: 93px;
+    max-width: 100%;
  }
  .frame3 {
     position: absolute;
@@ -153,6 +159,7 @@
     right: 0%;
     left: 0%;
     height: 70px;
+    max-width: 100%;
  }
  .rectangle8 {
     position: absolute;
@@ -194,6 +201,7 @@
     right: 0%;
     left: 0%;
     height: 46px;
+    max-width: 100%;
  }
  .frame9 {
     position: absolute;
@@ -203,6 +211,7 @@
     left: 36.25%;
     height: 46px;
     font-size: var(--font-size-18xl);
+    max-width: 100%;
  }
  .image-icon {
     position: absolute;
@@ -241,6 +250,7 @@
     right: 50%;
     left: 0%;
     height: 42px;
+    max-width: 100%;
  }
  .neurodiversity {
     position: absolute;
@@ -257,6 +267,7 @@
     right: 0%;
     left: 50%;
     height: 42px;
+    max-width: 100%;
  }
  .frame14 {
     position: absolute;
@@ -265,6 +276,7 @@
     right: 10%;
     left: 10%;
     height: 42px;
+    max-width: 100%;
  }
  .inflow-is-a {
     margin: 0;
@@ -284,6 +296,7 @@
     right: 0%;
     left: 50%;
     height: 278.39px;
+    max-width: 100%;
  }
  .icon {
     position: absolute;
@@ -300,6 +313,7 @@
     right: 0%;
     left: 0%;
     height: 800px;
+    max-width: 100%;
  }
  .image-icon3 {
     position: absolute;
@@ -353,6 +367,7 @@
     right: 0%;
     left: 0%;
     height: 800px;
+    max-width: 100%;
  }
  .image-icon6 {
     position: absolute;
@@ -396,6 +411,7 @@
     right: 0%;
     left: 50%;
     height: 300.39px;
+    max-width: 100%;
  }
  .frame22 {
     position: absolute;
@@ -404,6 +420,7 @@
     right: 0%;
     left: 0%;
     height: 800px;
+    max-width: 100%;
  }
  .frame11 {
     position: absolute;
@@ -413,6 +430,7 @@
     left: -0.58%;
     height: 2812.19px;
     font-size: var(--font-size-mini);
+    max-width: 100%;
  }
  .rectangle10 {
     position: absolute;
@@ -462,6 +480,7 @@
     left: calc(50% - 53px);
     width: 106px;
     height: 31px;
+    max-width: 100%;
  }
  .rectangle16 {
     position: absolute;
@@ -488,6 +507,7 @@
     left: calc(50% - 40px);
     width: 80px;
     height: 80px;
+    max-width: 100%;
  }
  .frame27 {
     position: absolute;
@@ -496,6 +516,7 @@
     right: 10%;
     left: 10%;
     height: 328.55px;
+    max-width: 100%;
  }
  .frame {
     position: relative;
@@ -508,6 +529,7 @@
     font-size: var(--font-size-sm);
     color: var(--color-gray);
     font-family: var(--font-plus-jakarta-sans);
+    max-width: 100%;
  }
  
  
