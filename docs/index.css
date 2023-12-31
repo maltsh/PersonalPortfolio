@@ -1493,6 +1493,157 @@
     color: var(--color-gray);
     font-family: var(--font-plus-jakarta-sans);
  }
+
+ /* 2xxxl */
+@media (max-width: 1920px) {}
+
+ /* 2xxl */
+@media (max-width: 1705px) {}
+
+/* 2xl */
+@media (max-width: 1536px) {}
+
+/* xl */
+@media (max-width: 1280px) {}
+
+/* lg */
+@media (max-width: 1024px) {}
+
+/* md */
+@media (max-width: 768px) {}
+
+/* sm */
+@media (max-width: 640px) {}
+
+/* xs */
+@media (max-width: 475px) {}
+
+.frame {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+/* xs */
+@media (min-width: 475px) {
+  .frame {
+    max-width: 475px;
+  }
+}
+
+/* sm */
+@media (min-width: 640px) {
+  .frame {
+    max-width: 640px;
+  }
+}
+
+/* md */
+@media (min-width: 768px) {
+  .frame {
+    max-width: 768px;
+  }
+}
+
+/* lg */
+@media (min-width: 1024px) {
+  .frame {
+    max-width: 1024px;
+  }
+}
+
+/* xl */
+@media (min-width: 1280px) {
+  .frame {
+    max-width: 1280px;
+  }
+}
+
+/* 2xl */
+@media (min-width: 1536px) {
+  .frame {
+    max-width: 1536px;
+  }
+}
+
+/* 2xxl */
+@media (min-width: 1705px) {
+   .frame {
+     max-width: 1705px;
+   }
+ }
+
+ /* 2xxxl */
+@media (min-width: 1920px) {
+   .frame {
+     max-width: 1920px;
+   }
+ }
  
  
- 
+.frame {
+  max-width: 1920px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+
+}
+
+/* 2xxxl */
+@media (max-width: 1920px) {
+   .frame {
+     max-width: 1705px;
+   }
+ }
+
+/* 2xl */
+@media (max-width: 1705px) {
+   .frame {
+     max-width: 1536px;
+   }
+ }
+
+/* 2xl */
+@media (max-width: 1536px) {
+  .frame {
+    max-width: 1280px;
+  }
+}
+
+/* xl */
+@media (max-width: 1280px) {
+  .frame {
+    max-width: 1024px;
+  }
+}
+
+/* lg */
+@media (max-width: 1024px) {
+  .frame {
+    max-width: 768px;
+  }
+}
+
+/* md */
+@media (max-width: 768px) {
+  .frame {
+    max-width: 640px;
+  }
+}
+
+/* sm */
+@media (max-width: 640px) {
+  .frame {
+    max-width: 475px;
+  }
+}
+
+/* xs */
+@media (max-width: 475px) {
+  .frame {
+    width: 100%;
+  }
+}
