@@ -125,20 +125,32 @@
  }
  .frame3 {
     position: absolute;
-    width: 100%;
+    width: 95%;
     top: 90px;
     right: 0%;
     left: 0%;
     height: 93px;
+    padding-left: 15px; /* Adjust the value as needed */
+    box-sizing: border-box; /* Include padding in the total width/height calculation */
  }
  .tshepiso-mal-1 {
-    position: absolute;
-    top: -34.59px;
-    left: 396px;
-    width: 287px;
-    height: 159px;
-    object-fit: cover;
+   position: absolute;
+   top: 0%; /* Adjust the percentage based on your desired vertical position */
+   left: 10%; /* Adjust the percentage based on your desired horizontal position */
+   width: 80%; /* Adjust the percentage based on your desired width */
+   height: auto; /* Automatically adjust the height to maintain the aspect ratio */
+   max-width: 100%; /* Ensure the image doesn't exceed its container width */
+   max-height: 100%; /* Ensure the image doesn't exceed its container height */
+   object-fit: contain; /* Maintain the aspect ratio and fit the entire image inside the container */
  }
+ @media (min-width: 768px) {
+   /* Adjust the positioning and dimensions for larger screens if needed */
+   .tshepiso-mal-1 {
+       top: 0%;
+       left: 20%;
+       width: 60%;
+   }
+}
  .frame1 {
     position: absolute;
     width: 90%;
@@ -174,7 +186,20 @@
     text-transform: uppercase;
     display: inline-block;
     height: 48px;
+    font-size: 3vw; /* Adjust the base font size as needed */
  }
+ @media (min-width: 768px) {
+   .code {
+       font-size: 2.7vw; /* Decrease font size by 10% for larger screens */
+   }
+}
+
+/* Media query for even larger screens */
+@media (min-width: 1024px) {
+   .code {
+       font-size: 2.4vw; /* Decrease font size by another 10% for even larger screens */
+   }
+}
  .elevate {
     position: absolute;
     width: 34.21%;
@@ -183,7 +208,21 @@
     line-height: 48px;
     text-transform: uppercase;
     display: inline-block;
+    font-size: 3vw; /* Adjust the base font size as needed */
  }
+/* Media query to decrease font size for larger screens */
+@media (min-width: 768px) {
+   .code {
+       font-size: 2.7vw; /* Decrease font size by 10% for larger screens */
+   }
+}
+
+/* Media query for even larger screens */
+@media (min-width: 1024px) {
+   .code {
+       font-size: 2.4vw; /* Decrease font size by another 10% for even larger screens */
+   }
+}
  .create {
     position: absolute;
     width: 76.05%;
@@ -193,7 +232,20 @@
     line-height: 48px;
     text-transform: uppercase;
     display: inline-block;
+    font-size: 3vw; /* Adjust the base font size as needed */
  }
+ @media (min-width: 768px) {
+   .code {
+       font-size: 2.7vw; /* Decrease font size by 10% for larger screens */
+   }
+}
+
+/* Media query for even larger screens */
+@media (min-width: 1024px) {
+   .code {
+       font-size: 2.4vw; /* Decrease font size by another 10% for even larger screens */
+   }
+}
  .frame11 {
     position: absolute;
     width: 131.03%;
@@ -207,17 +259,31 @@
     width: 26.85%;
     top: 112.41px;
     right: 58.43%;
-    left: 14.72%;
+    left: 13.72%;
     height: 149px;
  }
  .image-icon {
-    position: absolute;
-    top: -31.59px;
-    left: calc(50% - 201.99px);
-    width: 367px;
-    height: 361px;
-    object-fit: cover;
+   position: absolute;
+   top: -31.59px;
+   left: 50%;
+   transform: translateX(-50%); /* Center the image horizontally */
+   width: 30vw; /* Adjust the base width as needed */
+   max-width: 100%; /* Ensure the image doesn't exceed its container width */
+   height: auto; /* Automatically adjust the height to maintain the aspect ratio */
+   object-fit: cover;
  }
+ @media (min-width: 768px) {
+   .image-icon {
+       width: 27vw; /* Decrease width by 10% for larger screens */
+   }
+}
+
+/* Media query for even larger screens */
+@media (min-width: 1024px) {
+   .image-icon {
+       width: 24vw; /* Decrease width by another 10% for even larger screens */
+   }
+}
  .image-icon1 {
     position: absolute;
     top: calc(50% - 40.14px);
@@ -413,7 +479,20 @@
     font-family: var(--font-plus-jakarta-sans);
     color: var(--color-gray);
     text-align: left;
+    font-size: 5vw; /* Adjust the base font size as needed */
  }
+ @media (min-width: 768px) {
+   .code {
+       font-size: 2.7vw; /* Decrease font size by 10% for larger screens */
+   }
+}
+
+/* Media query for even larger screens */
+@media (min-width: 1024px) {
+   .code {
+       font-size: 2.4vw; /* Decrease font size by another 10% for even larger screens */
+   }
+}
  .tshepiso-mal-1-1 {
     position: absolute;
     top: 259px;
@@ -481,6 +560,18 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (min-width: 768px) {
+    .code {
+        font-size: 3.7vw; /* Decrease font size by 10% for larger screens */
+    }
+}
+
+/* Media query for even larger screens */
+@media (min-width: 1024px) {
+    .code {
+        font-size: 2.4vw; /* Decrease font size by another 10% for even larger screens */
+    }
+}
  .frame22 {
     position: absolute;
     width: 29.54%;
@@ -1139,12 +1230,14 @@
  }
  .untitled-design-2-1 {
     position: absolute;
-    top: 692px;
+    top: 675px;
     left: 162px;
     width: 1000px;
     height: 200px;
-    object-fit: cover;
- }
+    max-width: 100%; /* Ensure the image doesn't exceed the width of its container */
+    max-height: 100%; /* Ensure the image doesn't exceed the height of its container */
+    object-fit: contain; /* Maintain the aspect ratio and fit the entire image inside the container */
+}
  .rectangle34 {
     position: absolute;
     width: 100%;
@@ -1493,3 +1586,5 @@
     color: var(--color-gray);
     font-family: var(--font-plus-jakarta-sans);
  }
+
+ 
