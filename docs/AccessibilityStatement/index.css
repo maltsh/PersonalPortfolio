@@ -41,7 +41,7 @@
  }
  @media (max-width: 767px) {
    .email-me {
-       font-size: 70%; /* Reduce font size by 30% for smaller screens */
+       font-size: 90%; /* Reduce font size by 30% for smaller screens */
    }
 }
  .frame4 {
@@ -366,7 +366,7 @@
    }
    @media (max-width: 767px) {
       .get-in-touch-container {
-          font-size: 70%; /* Reduce font size by 30% for smaller screens */
+          font-size: 80%; /* Reduce font size by 30% for smaller screens */
       }
    }
  .i-recognize-the-container {
@@ -380,7 +380,7 @@
    }
    @media (max-width: 767px) {
       .i-recognize-the-container {
-          font-size: 60%; /* Reduce font size by 30% for smaller screens */
+          font-size: 80%; /* Reduce font size by 30% for smaller screens */
       }
    }
  .frame18 {
