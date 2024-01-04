@@ -244,7 +244,7 @@
    }
    @media (max-width: 767px) {
       .i-am-committed {
-          font-size: 60%; /* Reduce font size by 30% for smaller screens */
+          font-size: 50%; /* Reduce font size by 30% for smaller screens */
       }
    }
  .frame14 {
@@ -279,7 +279,7 @@
    }
    @media (max-width: 767px) {
       .i-have-designed {
-          font-size: 60%; /* Reduce font size by 40% for smaller screens */
+          font-size: 50%; /* Reduce font size by 40% for smaller screens */
       }
    }
  .frame15 {
@@ -380,7 +380,7 @@
    }
    @media (max-width: 767px) {
       .i-recognize-the-container {
-          font-size: 70%; /* Reduce font size by 30% for smaller screens */
+          font-size: 60%; /* Reduce font size by 30% for smaller screens */
       }
    }
  .frame18 {
@@ -415,7 +415,7 @@
    }
    @media (max-width: 767px) {
       .efforts-have-been-container {
-          font-size: 80%; /* Reduce font size by 30% for smaller screens */
+          font-size: 60%; /* Reduce font size by 30% for smaller screens */
       }
    }
  .frame20 {
