@@ -39,6 +39,11 @@
     line-height: 20px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .email-me {
+       font-size: 70%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .frame4 {
     position: absolute;
     width: 6.48%;
@@ -163,20 +168,12 @@
     left: 0%;
     line-height: 44.4px;
     display: inline-block;
-    margin-top: 12vw; /* Adjusted margin for responsiveness */
-    font-size: 100%; /* Initial font size */
-  }
-  @media (max-width: 90%) {
-    .accessibility {
-      font-size: 90%; /* Reducing font size by 10% for 10% reduction in screen size */
-    }
-  }
-
-  @media (max-width: 80%) {
-    .accessibility {
-      font-size: 80%; /* Further reduction for another 10% reduction in screen size */
-    }
-  }
+ }
+ @media (max-width: 767px) {
+   .accessibility {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
    .statement {
     position: absolute;
     width: 45.08%;
@@ -184,7 +181,12 @@
     left: 54.92%;
     line-height: 44.4px;
     display: inline-block;
- }
+   }
+   @media (max-width: 767px) {
+      .statement {
+          font-size: 60%; /* Reduce font size by 30% for smaller screens */
+      }
+   }
  .frame11 {
     position: absolute;
     width: 100%;
@@ -225,7 +227,12 @@
     left: 0%;
     line-height: 26px;
     display: inline-block;
- }
+}
+@media (max-width: 767px) {
+   .approach {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .i-am-committed {
     position: absolute;
     width: 98.37%;
@@ -234,7 +241,12 @@
     font-size: var(--font-size-mini);
     line-height: 22.5px;
     display: inline-block;
- }
+   }
+   @media (max-width: 767px) {
+      .i-am-committed {
+          font-size: 60%; /* Reduce font size by 30% for smaller screens */
+      }
+   }
  .frame14 {
     position: absolute;
     width: 87.55%;
@@ -250,7 +262,12 @@
     left: 0%;
     line-height: 26px;
     display: inline-block;
- }
+   }
+   @media (max-width: 767px) {
+      .standards-and-guidelines {
+          font-size: 60%; /* Reduce font size by 30% for smaller screens */
+      }
+   }
  .i-have-designed {
     position: absolute;
     width: 99.3%;
@@ -259,7 +276,12 @@
     font-size: var(--font-size-mini);
     line-height: 22.5px;
     display: inline-block;
- }
+   }
+   @media (max-width: 767px) {
+      .i-have-designed {
+          font-size: 60%; /* Reduce font size by 40% for smaller screens */
+      }
+   }
  .frame15 {
     position: absolute;
     width: 87.55%;
@@ -275,7 +297,12 @@
     left: 0%;
     line-height: 26px;
     display: inline-block;
- }
+   }
+   @media (max-width: 767px) {
+      .accessible-design {
+          font-size: 60%; /* Reduce font size by 30% for smaller screens */
+      }
+   }
  .i-have-taken {
     position: absolute;
     width: 98.14%;
@@ -284,7 +311,12 @@
     font-size: var(--font-size-mini);
     line-height: 22.5px;
     display: inline-block;
- }
+   }
+   @media (max-width: 767px) {
+      .i-have-taken {
+          font-size: 50%; /* Reduce font size by 30% for smaller screens */
+      }
+   }
  .frame16 {
     position: absolute;
     width: 87.55%;
@@ -318,7 +350,12 @@
  }
  .get-in-touch {
     margin: 0;
- }
+   }
+   @media (max-width: 767px) {
+      .get-in-touch {
+          font-size: 80%; /* Reduce font size by 30% for smaller screens */
+      }
+   }
  .get-in-touch-container {
     position: absolute;
     width: 38.14%;
@@ -326,7 +363,12 @@
     left: 0%;
     line-height: 26px;
     display: inline-block;
- }
+   }
+   @media (max-width: 767px) {
+      .get-in-touch-container {
+          font-size: 70%; /* Reduce font size by 30% for smaller screens */
+      }
+   }
  .i-recognize-the-container {
     position: absolute;
     width: 93.72%;
@@ -335,7 +377,12 @@
     font-size: var(--font-size-mini);
     line-height: 22.5px;
     display: inline-block;
- }
+   }
+   @media (max-width: 767px) {
+      .i-recognize-the-container {
+          font-size: 60%; /* Reduce font size by 30% for smaller screens */
+      }
+   }
  .frame18 {
     position: absolute;
     width: 87.76%;
@@ -351,7 +398,12 @@
     left: 0%;
     line-height: 26px;
     display: inline-block;
- }
+   }
+   @media (max-width: 767px) {
+      .keyboard-navigation-and-container {
+          font-size: 80%; /* Reduce font size by 30% for smaller screens */
+      }
+   }
  .efforts-have-been-container {
     position: absolute;
     width: 108.84%;
@@ -360,7 +412,12 @@
     font-size: var(--font-size-mini);
     line-height: 22.5px;
     display: inline-block;
- }
+   }
+   @media (max-width: 767px) {
+      .efforts-have-been-container {
+          font-size: 80%; /* Reduce font size by 30% for smaller screens */
+      }
+   }
  .frame20 {
     position: absolute;
     width: 87.76%;
@@ -376,7 +433,12 @@
     left: 0%;
     line-height: 26px;
     display: inline-block;
- }
+   }
+   @media (max-width: 767px) {
+      .continuous-improvement {
+          font-size: 60%; /* Reduce font size by 30% for smaller screens */
+      }
+   }
  .our-dedication-to-container {
     position: absolute;
     width: 96.05%;
@@ -385,7 +447,12 @@
     font-size: var(--font-size-mini);
     line-height: 22.5px;
     display: inline-block;
- }
+   }
+   @media (max-width: 767px) {
+      .our-dedication-to-container {
+          font-size: 80%; /* Reduce font size by 30% for smaller screens */
+      }
+   }
  .frame21 {
     position: absolute;
     width: 87.76%;
