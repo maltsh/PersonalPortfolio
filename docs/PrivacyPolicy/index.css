@@ -172,6 +172,11 @@
     line-height: 44.4px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .policy {
+      left: 140px; /* Reduce the image width by 30% for smaller screens */
+   }
+}
  .frame11 {
     position: absolute;
     width: 100%;
@@ -222,6 +227,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .this-website-is {
+       font-size: 50%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .frame14 {
     position: absolute;
     width: 87.55%;
@@ -247,6 +257,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .ensuring-the-privacy {
+       font-size: 50%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .frame15 {
     position: absolute;
     width: 87.55%;
@@ -272,6 +287,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .by-using-my {
+       font-size: 50%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .frame16 {
     position: absolute;
     width: 87.55%;
@@ -297,6 +317,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .the-right-to {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .the-right-to1 {
     position: absolute;
     width: 93.48%;
@@ -305,6 +330,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .the-right-to1 {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .providing-operating-and {
     position: absolute;
     width: 93.73%;
@@ -313,6 +343,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .providing-operating-and {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .finding-and-preventing {
     position: absolute;
     width: 97.16%;
@@ -321,6 +356,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .finding-and-preventing {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .the-right-to2 {
     position: absolute;
     width: 92.75%;
@@ -329,6 +369,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .the-right-to2 {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .frame18 {
     position: absolute;
     width: 95%;
@@ -345,6 +390,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .under-the-ccpa {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .frame17 {
     position: absolute;
     width: 87.55%;
@@ -362,6 +412,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .another-important-aspect {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .childrens-information {
     position: absolute;
     width: 51.75%;
@@ -370,7 +425,7 @@
     font-size: var(--font-size-xl);
     line-height: 26px;
     display: inline-block;
- }
+}
  .frame19 {
     position: absolute;
     width: 87.55%;
@@ -400,6 +455,11 @@
  .to-monitor-the {
     margin: 0;
  }
+ @media (max-width: 767px) {
+   .to-monitor-the {
+       font-size: 80%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .to-monitor-the-container {
     position: absolute;
     width: 98.84%;
@@ -408,6 +468,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .to-monitor-the-container {
+       font-size: 70%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .i-utilise-the {
     position: absolute;
     width: 76.28%;
@@ -416,6 +481,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .i-utilise-the {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .improving-personalising-and {
     position: absolute;
     width: 97.67%;
@@ -424,6 +494,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .improving-personalising-and {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .understanding-and-analysing {
     position: absolute;
     width: 98.65%;
@@ -432,6 +507,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .understanding-and-analysing {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .sending-you-emails {
     position: absolute;
     width: 96.45%;
@@ -440,6 +520,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .sending-you-emails {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .finding-and-preventing1 {
     position: absolute;
     width: 96.94%;
@@ -448,6 +533,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .finding-and-preventing1 {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .providing-operating-and1 {
     position: absolute;
     width: 93.51%;
@@ -456,6 +546,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .providing-operating-and1 {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .frame22 {
     position: absolute;
     width: 95%;
@@ -489,6 +584,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .as-a-user-container {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .frame23 {
     position: absolute;
     width: 87.76%;
@@ -616,6 +716,11 @@
     display: inline-block;
     width: 81px;
  }
+ @media (max-width: 767px) {
+   .g-of-co {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .view {
     position: absolute;
     top: 8.84px;
@@ -625,6 +730,11 @@
     display: inline-block;
     width: 34px;
  }
+ @media (max-width: 767px) {
+   .view {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .rectangle23 {
     position: absolute;
     top: 38.88px;
@@ -651,6 +761,11 @@
     display: inline-block;
     width: 114px;
  }
+ @media (max-width: 767px) {
+   .website-carbon {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .frame33 {
     position: absolute;
     top: 38.84px;
@@ -683,6 +798,11 @@
     display: inline-block;
     width: 182px;
  }
+ @media (max-width: 767px) {
+   .cleaner-than-94 {
+       font-size: 60%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .frame31 {
     position: absolute;
     width: 28.57%;

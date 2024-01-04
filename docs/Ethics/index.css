@@ -456,11 +456,6 @@
    height: auto; /* Automatically adjust the height to maintain the aspect ratio */
    object-fit: contain;
  }
- @media (min-width: 768px) {
-   .image-icon {
-       width: 37vw; /* Decrease width by 10% for larger screens */
-   }
-}
  .untitled-design-3-1 {
     position: absolute;
     top: -11px;
