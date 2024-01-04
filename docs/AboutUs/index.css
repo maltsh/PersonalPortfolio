@@ -207,6 +207,11 @@
  .as-a-software {
     margin: 0;
  }
+ @media (max-width: 767px) {
+   .as-a-software {
+       font-size: 90%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .as-a-software-container {
     position: absolute;
     width: 99.36%;
@@ -215,6 +220,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .as-a-software-container {
+       font-size: 90%; /* Reduce font size by 30% for smaller screens */
+   }
+}
  .frame13 {
     position: absolute;
     width: 100%;
