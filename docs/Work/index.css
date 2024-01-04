@@ -22,6 +22,11 @@
     height: 159px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .tshepiso-mal-1 {
+       left: 30px; /* Reduce the image width by 30% for smaller screens */
+   }
+}
  .frame1 {
     position: absolute;
     width: 90%;
@@ -128,6 +133,11 @@
     background-color: #fbff36;
     height: 70px;
  }
+ @media (max-width: 767px) {
+   .rectangle7 {
+       right: 1%; /* Reduce the image width by 30% for smaller screens */
+   }
+}
  .untitled-design-4-1 {
     position: absolute;
     top: 4px;
@@ -144,6 +154,12 @@
     height: 200px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .untitled-design-2-1 {
+       width: 100%; 
+       left: -50px;
+   }
+}
  .untitled-design-3-1 {
     position: absolute;
     top: -11px;
@@ -186,6 +202,11 @@
     line-height: 44.4px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .projects {
+       left: 75px;
+   }
+}
  .featured {
     position: absolute;
     width: 52.7%;
@@ -194,6 +215,10 @@
     line-height: 44.4px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .featured {
+   left: -95px   }
+}
  .frame10 {
     position: absolute;
     width: 100%;
@@ -224,6 +249,12 @@
     height: 60px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .image-icon {
+       width: 60%; 
+       top: -170px;
+   }
+}
  .image-icon1 {
     position: absolute;
     width: 16.67%;
@@ -235,6 +266,12 @@
     height: 40px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .image-icon1 {
+       width: 30%; 
+       top: -180px;
+   }
+}
  .adhd {
     position: absolute;
     width: 18.33%;
@@ -243,6 +280,12 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .adhd {
+   left: 30px;
+   font-size: 70%;   
+   top: -170px }
+}
  .frame15 {
     position: absolute;
     width: 50%;
@@ -260,6 +303,12 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .neurodiversity {
+   left: 30px;
+   font-size: 68%;   
+   top: -170px; }
+}
  .frame16 {
     position: absolute;
     width: 50%;
@@ -281,6 +330,11 @@
  .inflow-is-a {
     margin: 0;
  }
+ @media (max-width: 767px) {
+   .inflow-is-a {
+   font-size: 85%;
+   top: -30px;   }
+}
  .inflow-is-a-container {
     position: absolute;
     width: 70%;
@@ -289,6 +343,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .inflow-is-a-container {
+   font-size: 85%;
+   top: -30px;   }
+}
  .frame13 {
     position: absolute;
     width: 50%;
@@ -306,6 +365,12 @@
     height: 800px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .icon {
+       width: 50%; 
+       height: 110%;
+   }
+}
  .frame12 {
     position: absolute;
     width: 100%;
@@ -326,6 +391,12 @@
     height: 60px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .image-icon3 {
+       width: 61%; 
+       top: -180px;
+   }
+}
  .social-justice {
     position: absolute;
     width: 42.5%;
@@ -334,6 +405,12 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .social-justice {
+   font-size: 70%;
+   top: -180px;   
+   left: 30px }
+}
  .non-profit {
     position: absolute;
     width: 35%;
@@ -342,6 +419,12 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .non-profit {
+   font-size: 70%;
+   top: -180px;   
+   left: 30px }
+}
  .rectangle-icon {
     position: absolute;
     width: 22.71%;
@@ -360,6 +443,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .neon-provides-support-container {
+   font-size: 85%;
+   top: -20px;   }
+}
  .frame17 {
     position: absolute;
     width: 100%;
@@ -380,6 +468,12 @@
     height: 60px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .image-icon6 {
+       width: 58%; 
+       top: -170px;
+   }
+}
  .gaming {
     position: absolute;
     width: 24.58%;
@@ -388,6 +482,12 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .gaming {
+   left: 30px;
+   font-size: 70%;   
+   top: -170px }
+}
  .twitch {
     position: absolute;
     width: 21.67%;
@@ -396,6 +496,12 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .twitch {
+   left: 30px;
+   font-size: 70%;   
+   top: -170px }
+}
  .linkorep-operates-a-container {
     position: absolute;
     width: 73.67%;
@@ -404,6 +510,11 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .linkorep-operates-a-container {
+   font-size: 85%;
+   top: -20px;   }
+}
  .frame23 {
     position: absolute;
     width: 50%;
