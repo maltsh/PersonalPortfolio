@@ -163,8 +163,21 @@
     left: 0%;
     line-height: 44.4px;
     display: inline-block;
- }
- .statement {
+    margin-top: 12vw; /* Adjusted margin for responsiveness */
+    font-size: 100%; /* Initial font size */
+  }
+  @media (max-width: 90%) {
+    .accessibility {
+      font-size: 90%; /* Reducing font size by 10% for 10% reduction in screen size */
+    }
+  }
+
+  @media (max-width: 80%) {
+    .accessibility {
+      font-size: 80%; /* Further reduction for another 10% reduction in screen size */
+    }
+  }
+   .statement {
     position: absolute;
     width: 45.08%;
     top: 0.41px;
