@@ -186,18 +186,12 @@
     text-transform: uppercase;
     display: inline-block;
     height: 48px;
-    font-size: 3vw; /* Adjust the base font size as needed */
  }
- @media (min-width: 768px) {
+ @media (max-width: 767px) {
    .code {
-       font-size: 2.7vw; /* Decrease font size by 10% for larger screens */
-   }
-}
-
-/* Media query for even larger screens */
-@media (min-width: 1024px) {
-   .code {
-       font-size: 2.4vw; /* Decrease font size by another 10% for even larger screens */
+       font-size: 65%; 
+       left: 42px; 
+       top: 110px;
    }
 }
  .elevate {
@@ -208,19 +202,12 @@
     line-height: 48px;
     text-transform: uppercase;
     display: inline-block;
-    font-size: 3vw; /* Adjust the base font size as needed */
  }
-/* Media query to decrease font size for larger screens */
-@media (min-width: 768px) {
-   .code {
-       font-size: 2.7vw; /* Decrease font size by 10% for larger screens */
-   }
-}
-
-/* Media query for even larger screens */
-@media (min-width: 1024px) {
-   .code {
-       font-size: 2.4vw; /* Decrease font size by another 10% for even larger screens */
+ @media (max-width: 767px) {
+   .elevate {
+       font-size: 110%; 
+       left: 10px; 
+       top: 180px;
    }
 }
  .create {
@@ -232,18 +219,12 @@
     line-height: 48px;
     text-transform: uppercase;
     display: inline-block;
-    font-size: 3vw; /* Adjust the base font size as needed */
  }
- @media (min-width: 768px) {
-   .code {
-       font-size: 2.7vw; /* Decrease font size by 10% for larger screens */
-   }
-}
-
-/* Media query for even larger screens */
-@media (min-width: 1024px) {
-   .code {
-       font-size: 2.4vw; /* Decrease font size by another 10% for even larger screens */
+ @media (max-width: 767px) {
+   .create {
+       font-size: 75%; 
+       left: -23px; 
+       top: 50px;
    }
 }
  .frame11 {
@@ -267,7 +248,7 @@
    top: -31.59px;
    left: 50%;
    transform: translateX(-50%); /* Center the image horizontally */
-   width: 30vw; /* Adjust the base width as needed */
+   width: 43vw; /* Adjust the base width as needed */
    max-width: 100%; /* Ensure the image doesn't exceed its container width */
    height: auto; /* Automatically adjust the height to maintain the aspect ratio */
    object-fit: cover;
@@ -481,18 +462,6 @@
     text-align: left;
     font-size: 5vw; /* Adjust the base font size as needed */
  }
- @media (min-width: 768px) {
-   .code {
-       font-size: 2.7vw; /* Decrease font size by 10% for larger screens */
-   }
-}
-
-/* Media query for even larger screens */
-@media (min-width: 1024px) {
-   .code {
-       font-size: 2.4vw; /* Decrease font size by another 10% for even larger screens */
-   }
-}
  .tshepiso-mal-1-1 {
     position: absolute;
     top: 259px;
@@ -560,17 +529,12 @@
     line-height: 22.5px;
     display: inline-block;
  }
- @media (min-width: 768px) {
-    .code {
-        font-size: 3.7vw; /* Decrease font size by 10% for larger screens */
-    }
-}
-
-/* Media query for even larger screens */
-@media (min-width: 1024px) {
-    .code {
-        font-size: 2.4vw; /* Decrease font size by another 10% for even larger screens */
-    }
+ @media (max-width: 767px) {
+   .im-tshepiso-a {
+       font-size: 70%; 
+       left: 55px;
+       top: -30px;
+   }
 }
  .frame22 {
     position: absolute;
@@ -666,6 +630,11 @@
     line-height: 44.4px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .tech {
+       left: 130px; 
+   }
+}
  .frame26 {
     position: absolute;
     width: 100%;
@@ -717,6 +686,12 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .exceptional-software-design {
+       font-size: 50%; 
+       top: -70px;
+   }
+}
  .frame30 {
     position: absolute;
     width: 100%;
@@ -762,6 +737,12 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .in-ethical-software {
+       font-size: 50%; 
+       top: -10px;
+   }
+}
  .frame31 {
     position: absolute;
     width: 31.29%;
@@ -798,6 +779,12 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .the-internet-has {
+       font-size: 50%; 
+       top: -20px;
+   }
+}
  .frame33 {
     position: absolute;
     width: 31.29%;
@@ -942,6 +929,11 @@
     height: 40px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .image-icon6 {
+       top: -80px;
+   }
+}
  .adhd {
     position: absolute;
     width: 18.33%;
@@ -1237,6 +1229,12 @@
     max-width: 100%; /* Ensure the image doesn't exceed the width of its container */
     max-height: 100%; /* Ensure the image doesn't exceed the height of its container */
     object-fit: contain; /* Maintain the aspect ratio and fit the entire image inside the container */
+}
+@media (max-width: 767px) {
+   .untitled-design-2-1 {
+       width: 100%; 
+       left: 20px;
+   }
 }
  .rectangle34 {
     position: absolute;
