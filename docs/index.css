@@ -614,6 +614,11 @@
     left: 0%;
     height: 46px;
  }
+ @media (max-width: 767px) {
+   .rectangle27 {
+       top: 40px;
+   }
+}
  .ethical {
     position: absolute;
     width: 54.36%;
@@ -622,6 +627,11 @@
     line-height: 44.4px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .ethical {
+       top: -30px;
+   }
+}
  .tech {
     position: absolute;
     width: 45.64%;
@@ -633,6 +643,7 @@
  @media (max-width: 767px) {
    .tech {
        left: 130px; 
+       top: -30px;
    }
 }
  .frame26 {
@@ -662,6 +673,13 @@
     height: 40px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .image-icon2 {
+       top: -45px;
+       width: 40%;
+       height: 40%;
+   }
+}
  .inclusive-design {
     position: absolute;
     width: 59.35%;
@@ -670,6 +688,14 @@
     line-height: 26px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .inclusive-design {
+       top: -60px;
+       font-size: 60%;
+       font-weight: bold;
+       left: 40px;
+   }
+}
  .frame29 {
     position: absolute;
     width: 100%;
@@ -720,6 +746,13 @@
     height: 40px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .image-icon3 {
+       top: -50px;
+       width: 40%;
+       height: 40%;
+   }
+}
  .transparent-dev {
     position: absolute;
     width: 50.22%;
@@ -728,6 +761,15 @@
     line-height: 26px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .transparent-dev {
+       top: -65px;
+       font-size: 60%;
+       font-weight: bold;
+       left: 40px;
+   }
+}
+
  .in-ethical-software {
     position: absolute;
     width: 97.83%;
@@ -740,7 +782,7 @@
  @media (max-width: 767px) {
    .in-ethical-software {
        font-size: 50%; 
-       top: -10px;
+       top: -13px;
    }
 }
  .frame31 {
@@ -762,6 +804,14 @@
     height: 40px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .image-icon4 {
+       top: -55px;
+       width: 40%;
+       height: 40%;
+       left: 5px;
+   }
+}
  .sustainable-web {
     position: absolute;
     width: 61.96%;
@@ -770,6 +820,14 @@
     line-height: 26px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .sustainable-web {
+       top: -70px;
+       font-size: 60%;
+       font-weight: bold;
+       left: 45px;
+   }
+}
  .the-internet-has {
     position: absolute;
     width: 97.18%;
@@ -846,9 +904,24 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .did-you-know {
+       left: 330px;
+       top: 8px;
+       font-weight: bold;
+   }
+}
  .across-africa-a {
     margin: 0;
+    top: -20px;
  }
+ @media (max-width: 767px) {
+   .across-africa-a {
+       font-size: 60%;
+       top: 30px;
+       left: 50px;
+   }
+}
  .across-africa-a-container {
     position: absolute;
     top: calc(50% - 21px);
@@ -882,6 +955,11 @@
     line-height: 44.4px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .projects {
+       left: 160px;
+   }
+}
  .featured {
     position: absolute;
     width: 52.7%;
@@ -890,6 +968,11 @@
     line-height: 44.4px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .featured {
+       left: -10px;
+   }
+}
  .frame37 {
     position: absolute;
     width: 100%;
@@ -918,6 +1001,13 @@
     height: 60px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .image-icon5 {
+       top: -230px;
+       left: 37px;
+       width: fit-content;
+   }
+}
  .image-icon6 {
     position: absolute;
     width: 16.67%;
@@ -931,7 +1021,10 @@
  }
  @media (max-width: 767px) {
    .image-icon6 {
-       top: -80px;
+       top: -255px;
+       left: 40px;
+       width: 40%;
+       height: 40%;
    }
 }
  .adhd {
@@ -942,6 +1035,14 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .adhd {
+       top: -235px;
+       font-size: 70%;
+       font-weight: bold;
+       left: 35px;
+   }
+}
  .frame42 {
     position: absolute;
     width: 50%;
@@ -958,6 +1059,14 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .neurodiversity {
+       top: -235px;
+       font-size: 80%;
+       font-weight: bold;
+       left: 8px;
+   }
+}
  .frame43 {
     position: absolute;
     width: 50%;
@@ -982,6 +1091,12 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .inflow-is-a-container {
+       top: -110px;
+       left: 50px;
+   }
+}
  .frame40 {
     position: absolute;
     width: 50%;
@@ -998,6 +1113,12 @@
     height: 800px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .icon {
+       width: 60%;
+       height: 60%;
+   }
+}
  .frame39 {
     position: absolute;
     width: 100%;
@@ -1017,6 +1138,13 @@
     height: 60px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .image-icon8 {
+       top: -230px;
+       left: 42px;
+       width: fit-content;
+   }
+}
  .social-justice {
     position: absolute;
     width: 42.5%;
@@ -1025,6 +1153,14 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .social-justice {
+       top: -235px;
+       font-size: 70%;
+       font-weight: bold;
+       left: 35px;
+   }
+}
  .non-profit {
     position: absolute;
     width: 35%;
@@ -1033,6 +1169,14 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .non-profit {
+       top: -235px;
+       font-size: 70%;
+       font-weight: bold;
+       left: 35px;
+   }
+}
  .rectangle-icon {
     position: absolute;
     width: 22.71%;
@@ -1051,6 +1195,12 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .neon-provides-support-container {
+       top: -80px;
+       left: 50px;
+   }
+}
  .frame44 {
     position: absolute;
     width: 100%;
@@ -1058,6 +1208,11 @@
     right: 0%;
     left: 0%;
     height: 800px;
+ }
+ @media (max-width: 767px) {
+   .frame44 {
+       top: 480px;
+   }
  }
  .image-icon11 {
     position: absolute;
@@ -1070,6 +1225,13 @@
     height: 60px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .image-icon11 {
+       top: -230px;
+       left: 38px;
+       width: fit-content;
+   }
+ }
  .gaming {
     position: absolute;
     width: 24.58%;
@@ -1078,6 +1240,14 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .gaming {
+       top: -235px;
+       font-size: 70%;
+       font-weight: bold;
+       left: 35px;
+   }
+}
  .twitch {
     position: absolute;
     width: 21.67%;
@@ -1086,6 +1256,14 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .twitch {
+       top: -235px;
+       font-size: 75%;
+       font-weight: bold;
+       left: 35px;
+   }
+}
  .linkorep-operates-a-container {
     position: absolute;
     width: 73.67%;
@@ -1094,6 +1272,12 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .linkorep-operates-a-container {
+       top: -110px;
+       left: 50px;
+   }
+}
  .frame50 {
     position: absolute;
     width: 50%;
@@ -1110,6 +1294,11 @@
     left: 0%;
     height: 800px;
  }
+ @media (max-width: 767px) {
+   .frame49 {
+       top: 960px;
+   }
+}
  .image-icon14 {
     position: absolute;
     width: 15.96%;
@@ -1162,6 +1351,31 @@
     left: 0%;
     height: 80px;
  }
+ @media (max-width: 767px) {
+   .frame55 {
+       top: -840px;
+   }
+}
+ @media (max-width: 767px) {
+   .image-icon14 {
+       width: 26%;
+   }
+}
+@media (max-width: 767px) {
+   .image-icon15 {
+       width: 26%;
+   }
+}
+@media (max-width: 767px) {
+   .image-icon16 {
+       width: 26%;
+   }
+}
+@media (max-width: 767px) {
+   .image-icon17 {
+       width: 26%;
+   }
+}
  .more-happy {
     position: absolute;
     top: -1.41px;
@@ -1170,6 +1384,11 @@
     display: inline-block;
     width: 211px;
  }
+ @media (max-width: 767px) {
+   .more-happy {
+       left: -40px;
+   }
+}
  .clients {
     position: absolute;
     top: -1.41px;
@@ -1178,6 +1397,11 @@
     display: inline-block;
     width: 119px;
  }
+ @media (max-width: 767px) {
+   .clients {
+       left: 91px;
+   }
+}
  .and {
     position: absolute;
     top: -1.41px;
@@ -1186,6 +1410,11 @@
     display: inline-block;
     width: 78px;
  }
+ @media (max-width: 767px) {
+   .and {
+       left: 161px;
+   }
+}
  .partners {
     position: absolute;
     top: -1.41px;
@@ -1194,6 +1423,11 @@
     display: inline-block;
     width: 153px;
  }
+ @media (max-width: 767px) {
+   .partners {
+       left: 181px;
+   }
+}
  .frame56 {
     position: absolute;
     width: 100%;
@@ -1202,6 +1436,12 @@
     left: 0%;
     height: 44px;
  }
+ @media (max-width: 767px) {
+   .frame56 {
+       top: -900px;
+       font-size: 50%;
+   }
+}
  .frame54 {
     position: absolute;
     width: 78.33%;
@@ -1236,24 +1476,34 @@
        left: 20px;
    }
 }
- .rectangle34 {
-    position: absolute;
-    width: 100%;
-    top: 4425.59px;
-    right: 0%;
-    left: 0%;
-    background-color: var(--color-gray);
-    height: 2px;
- }
- .rectangle35 {
-    position: absolute;
-    width: 100%;
-    top: 4507.59px;
-    right: 0%;
-    left: 0%;
-    background-color: var(--color-gray);
-    height: 2px;
- }
+.rectangle34 {
+   position: absolute;
+   width: 100%;
+   top: 4425.59px;
+   right: 0%;
+   left: 0%;
+   background-color: var(--color-gray);
+   height: 2px;
+}
+@media (max-width: 767px) {
+   .rectangle34 {
+      top: -815px;
+   }
+}
+.rectangle35 {
+   position: absolute;
+   width: 100%;
+   top: 4507.59px;
+   right: 0%;
+   left: 0%;
+   background-color: var(--color-gray);
+   height: 2px;
+}
+@media (max-width: 767px) {
+   .rectangle35 {
+      top: -815px;
+   }
+}
  .rectangle36 {
     position: absolute;
     width: 100%;
@@ -1263,6 +1513,11 @@
     background-color: #30fc2c;
     height: 80px;
  }
+ @media (max-width: 767px) {
+   .rectangle36 {
+       top: -800px;
+   }
+}
  .rectangle37 {
     position: absolute;
     width: 100%;
@@ -1273,12 +1528,19 @@
  }
  .accessibility-for-all {
     position: absolute;
-    top: -2px;
-    left: calc(50% - 171.5px);
+    top: 10px;
+    left: calc(50% - 131.5px);
     line-height: 19.5px;
     display: inline-block;
     width: 343px;
  }
+ @media (max-width: 767px) {
+   .accessibility-for-all {
+       top: -790px;
+       font-size: 75%;
+       left: 80px;
+   }
+}
  .frame58 {
     position: absolute;
     top: 42px;
@@ -1295,14 +1557,29 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .did-you-know1 {
+       top: -795px;
+       font-size: 75%;
+       left: 15px;
+       font-weight: bold;
+   }
+}
  .just-like-you {
     position: absolute;
-    top: calc(50% - 22px);
+    top: calc(50% - 35px);
     left: calc(50% - 275px);
     line-height: 22.5px;
     display: inline-block;
     width: 663px;
  }
+ @media (max-width: 767px) {
+   .just-like-you {
+       top: -800px;
+       font-size: 75%;
+       left: 90px;
+   }
+}
  .frame57 {
     position: absolute;
     width: 100%;
@@ -1328,6 +1605,11 @@
     line-height: 44.4px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .me {
+      left: 120px;
+   }
+}
  .about1 {
     position: absolute;
     width: 67.06%;
@@ -1364,6 +1646,14 @@
     height: 40px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .image-icon18 {
+       width: 20%;
+       height: 40%;
+       left: -15px;
+       top: 17px;
+   }
+}
  .background {
     position: absolute;
     width: 25.53%;
@@ -1423,6 +1713,14 @@
     height: 40px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .image-icon19 {
+       width: 20%;
+       height: 40%;
+       left: -15px;
+       top: 17px;
+   }
+}
  .availabilities {
     position: absolute;
     width: 29.07%;
@@ -1446,6 +1744,12 @@
     display: inline-block;
     width: 228px;
  }
+ @media (max-width: 767px) {
+   .please-feel-free {
+       top: 250px;
+       left: -130px;
+   }
+}
  .while-im-fully-container {
     position: absolute;
     width: 96.51%;
@@ -1462,6 +1766,12 @@
     line-height: 22.5px;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .last-updated-september {
+       top: 290px;
+       left: -130px;
+   }
+}
  .frame69 {
     position: absolute;
     width: 100%;
@@ -1497,6 +1807,11 @@
     height: 496.27px;
     font-size: 36px;
  }
+ @media (max-width: 767px) {
+   .frame59 {
+      top: 3900px;
+   }
+}
  .rectangle43 {
     position: absolute;
     width: 99.86%;
@@ -1564,6 +1879,11 @@
     height: 328.55px;
     font-size: var(--font-size-sm);
  }
+ @media (max-width: 767px) {
+   .frame71 {
+       top: 4900px;
+   }
+}
  .untitled-design-3-1 {
     position: absolute;
     top: 730px;
