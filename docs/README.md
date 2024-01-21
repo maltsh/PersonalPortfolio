@@ -50,10 +50,11 @@ This project was built using these technologies.
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
 
+## License
+
+MIT
+
 ### Show your support
 
 Give a ⭐ if you like this website!
 
-## License
-
-MIT
