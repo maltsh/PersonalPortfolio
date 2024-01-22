@@ -4,8 +4,8 @@ PersonalPortfolio is a fully responsive personal portfolio website, responsive f
 
 ## Demo
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![vCard Desktop Demo](assets/desktop.png "Desktop Demo")
+![vCard Mobile Demo](assets/mobile.png "Mobile Demo")
 
 <br/>
 
