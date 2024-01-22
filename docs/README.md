@@ -1,6 +1,6 @@
 # PersonalPortfolio
 
-PersoalPortfolio is a fully responsive personal portfolio website, responsive for all devices, built using HTML and CSS.
+PersonalPortfolio is a fully responsive personal portfolio website, responsive for all devices, built using HTML and CSS.
 
 ## Demo
 
