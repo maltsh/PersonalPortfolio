@@ -18,7 +18,7 @@ PersonalPortfolio is a fully responsive personal portfolio website, responsive f
 
 ## Built With
 
-My personal portfolio <a href="https://maltsh.github.io/PersonalPortfolio/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://maltsh.github.io/PersonalPortfolio/" target="_blank">PersonalPortfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
