@@ -18,7 +18,9 @@ PersonalPortfolio is a fully responsive personal portfolio website, responsive f
 
 ## Built With
 
-My personal portfolio <a href="https://maltsh.github.io/PersonalPortfolio/" target="_blank">PersonalPortfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
+# Mock Personal Portfolio
+🚀 Dive into my world of code and creativity! Explore projects, check my skills, and peek into my tech journey. Responsively designed for all screens. Built with ❤️, HTML, and CSS.
+👉 [Check it out!](https://maltsh.github.io/PersonalPortfolio/)
 
 This project was built using these technologies.
 
@@ -29,14 +31,9 @@ This project was built using these technologies.
 
 **📖 Multi-Page Layout**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🎨 Styled with Css with easy to customize colors**
 
-**📱 Fully Responsive**
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+**📱 Multi-screen Responsive**
 
 ## License
 
